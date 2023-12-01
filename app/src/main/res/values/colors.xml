@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorMenuBackground">#FF4081</color>
+    <color name="colorPrimary">#800080</color> <!-- Puedes ajustar el código de color según tus preferencias -->
+    <color name="colorPrimaryDark">#400040</color> <!-- Puedes ajustar el código de color según tus preferencias -->
+    <color name="colorAccent">#F591B7</color> <!-- Este es solo un ejemplo de color de acento -->
+</resources>

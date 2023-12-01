@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WDYM</string>
+    <string name="item1">Mis Notas</string>
+    <string name="item2">Favoritas</string>
+    <string name="Eliminate">Eliminar</string>
+    <string name="Save">Guardar</string>
+    <string name="btnGenerar">Generar nota</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="cambiarIdioma">Cambiar Idioma</string>
+    <string name="hintIdeas">Escribe tus ideas aquí...</string>
+    <string name="GuardarFirebase">Ideas guardadas en Firebase</string>
+    <string name="FavGuardada">Nota añadida a Favoritos</string>
+    <string name="FavEliminada">Nota eliminada de Favoritos</string>
+    <string name="MisNotas">MIS NOTAS</string>
+    <string name="MisNotasFav">FAVORITAS</string>
+    <string name="nombreNota">NOTA</string>
+    <string name="salir">Salir</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Eliminate">Eliminate</string>
+    <string name="Save">Save</string>
+    <string name="app_name">WDYM</string>
+    <string name="item1">My Notes</string>
+    <string name="item2">Favorites</string>
+    <string name="btnGenerar">Generate Note</string>
+    <string name="btnRegresar">Return</string>
+    <string name="cambiarIdioma">Change Language</string>
+    <string name="hintIdeas">Write your ideas here...</string>
+    <string name="GuardarFirebase">Ideas saved in Firebase</string>
+    <string name="FavGuardada">Note added to Favorites</string>
+    <string name="FavEliminada">Note removed from Favorites</string>
+    <string name="MisNotas">MY NOTES</string>
+    <string name="MisNotasFav">FAVORITES</string>
+    <string name="nombreNota">NOTE</string>
+    <string name="salir">Exit</string>
+
+</resources>
